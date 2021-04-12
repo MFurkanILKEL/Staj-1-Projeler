@@ -1,4 +1,4 @@
-# Syaj-1-Projeler
+# Staj-1-Projeler
 
 2019 yılında yaptığım ilk staj süresince gerçekeleştirdiğim projeleri paylaşıyorum. Bu projeleri 2. sınıfın yazında gerçekleştirdim. 
 
